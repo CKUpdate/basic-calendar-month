@@ -1,0 +1,15 @@
+{
+  "name": "basic-calendar-month",
+  "repository": "git@github.com:CKUpdate/basic-calendar-month.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "basic-calendar-month-days": "CKUpdate/basic-calendar-month-days#master",
+    "basic-days-of-week": "CKUpdate/basic-days-of-week#master",
+    "basic-element": "CKUpdate/basic-element#master",
+    "basic-month-and-year": "CKUpdate/basic-month-and-year#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
+}
